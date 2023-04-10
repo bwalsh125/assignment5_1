@@ -1,0 +1,9 @@
+Exploration of coupon data using data provided in exercise (see "prompt.ipynb" for details)
+
+Files:
+README - This file
+prompt.ipynb - Contains all source code for exploration and report images.
+data/coupons.csv - The data file used in exploration.
+"Coupon Acceptance Rate Exploration".pptx - Report of findings and graphs
+images/* - Graph images created for report
+
